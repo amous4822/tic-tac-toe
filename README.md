@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a tic-tac-toe game that was built while learning react from the [official docs](https://reactjs.org/tutorial/tutorial.html). It can store the previous history of moves and allows to go back to previous moves
+
+
+
 
 ## Available Scripts
 
